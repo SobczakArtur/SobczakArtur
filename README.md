@@ -7,7 +7,7 @@
 
 ### Technologies/frameworks with which i worked:
 - Java 8 and earlier
-- Spring Boot, Spring Framework
+- Spring (Boot, Validator)
 - MySQL
 - Hibernate (JPA)
 - JUnit 5, Mockito, MockMvc
