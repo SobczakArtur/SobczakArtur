@@ -6,7 +6,7 @@
 - I practice mainly Java and Spring to become an expert.
 
 ### Technologies/frameworks with which i worked:
-- Java 8 and earlier
+- Java 8
 - Spring (Boot, Validator)
 - MySQL
 - Hibernate (JPA)
