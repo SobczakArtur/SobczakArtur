@@ -18,6 +18,7 @@ first commercial role as a Java backend developer.
 - **Databases:** MySQL, H2
 - **Testing:** JUnit 5, Mockito, MockMvc, WireMock
 - **Tools:** Maven, Gradle, Docker, Docker Compose, Git, IntelliJ IDEA, Postman
+- **Languages:** Polish (native), English (B2)
 
 ### 📫 Contact
 
